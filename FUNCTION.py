@@ -18,4 +18,6 @@ while i==1:
     elif user=="paper" and CPU=="scissors":
         print(CPU,"You loose")    
     else:
-        print(CPU,"Draw",user)              
+        print(CPU,"Draw",user)            
+        
+print("Hope you enjoyed the game")  
