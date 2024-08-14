@@ -22,3 +22,4 @@ while i==1:
         
 print("Hope you enjoyed the game")  
 print("Do i need update")
+print("Updating...")
